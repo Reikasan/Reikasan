@@ -36,6 +36,10 @@ GitHub: https://github.com/Reikasan/Book-app
 - MySQL
 - Google Books API
 
+> [!IMPORTANT]
+> I'm struggling to integrate the frontend and backend, and this repository has been somewhat neglected. (Sorry!) <br/>
+You can find the Laravel-only version [HERE](https://github.com/Reikasan/laravel-book-app)
+
 ## Reservation Manager
 <img src="https://user-images.githubusercontent.com/68085523/167089689-009bf759-55af-458b-88d2-cf1fe1aae866.jpg" alt="reservation_manager_screenshot" style="max-width: 100%;">
 
