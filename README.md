@@ -49,4 +49,16 @@ Github: https://github.com/Reikasan/reservation_manager_with_OOP
 - PHP
 - JavaScript
 - MySQL
-  
+
+## [CV](https://reikasan.github.io/cv/)
+I couldn't find nice CV template, so I created my CV with html and css.
+
+![Screenshot 2024-02-20 at 12 49 03](https://github.com/Reikasan/Reikasan/assets/68085523/853b3004-1817-4ea5-81f7-24483d715168)
+Check -> https://reikasan.github.io/cv/<br/>
+Github: https://github.com/Reikasan/cv
+
+## Built with
+- HTML
+- CSS
+
+When you print it out, only paper-like area is selected!
