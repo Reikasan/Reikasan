@@ -26,17 +26,15 @@ Please check my portfolio site :)
 
 This app is created for personal use. Users can save book information, along with memos, by utilizing the Google Books API.
 
-GitHub: https://github.com/Reikasan/Book-app
-> [!IMPORTANT]
+GitHub: https://github.com/Reikasan/laravel-book-app
+> [!NOTE]
+> There is another version with React. [HERE](https://github.com/Reikasan/Book-app) <br/>
 > I'm struggling to integrate the frontend and backend, and this repository has been somewhat neglected. (Sorry!) <br/>
-You can find the Laravel-only version [HERE](https://github.com/Reikasan/laravel-book-app)
+> I will restart it when Laravel version is finished!
 
 
 ### Built with 
 - Laravel
-- React
-- Material UI
-- TypeScript
 - MySQL
 - Google Books API
 
