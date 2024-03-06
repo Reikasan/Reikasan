@@ -16,7 +16,7 @@ Please Check :point_down:
 ---
 
 ## [Portfolio Site](https://reikasan.github.io/portfolio-2023/)
-<img alt="ogp-img(2).png" src="https://github.com/Reikasan/photo_for_codepen/blob/main/ogp-img(2).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
+<img alt="portfolio-screenshot" src="https://github.com/Reikasan/photo_for_codepen/blob/main/ogp-img(2).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
 Portfolio Site: <https://reikasan.github.io/portfolio-2023/>
 
@@ -47,6 +47,7 @@ GitHub: https://github.com/Reikasan/laravel-book-app
 - Google Books API
 
 ## [TicTacToe Game](https://reikasan.github.io/tictactoe/)
+<img alt="tictactoe screenshot" src="https://github.com/Reikasan/photo_for_codepen/blob/main/Screenshot%202024-03-06%20at%2017.08.56.png?raw=true">
 
 Play my TicTacToe Game!<br/>
 👉 https://reikasan.github.io/tictactoe/<br/>
