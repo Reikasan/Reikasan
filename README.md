@@ -7,6 +7,14 @@ Please Check :point_down:
 - LinkedIn: [Reika Akuzawa](https://www.linkedin.com/in/reika-akuzawa-8271b7242/)
 
 # Projects
+---
+[🌵 Portfolio (React)](#portfolio-site)<br/>
+[📖 Book App (Laravel)](#book-app)<br/>
+[🍰 TicTacToe game (JavaScript)](#tictactoe-game)<br/>
+[🍝 Reservation Manager (PHP)](#reservation-manager)<br/>
+[🖋️ CV (HTML, CSS)](#cv)<br/>
+---
+
 ## [Portfolio Site](https://reikasan.github.io/portfolio-2023/)
 <img alt="ogp-img(2).png" src="https://github.com/Reikasan/photo_for_codepen/blob/main/ogp-img(2).png?raw=true" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI">
 
@@ -37,6 +45,25 @@ GitHub: https://github.com/Reikasan/laravel-book-app
 - Laravel
 - MySQL
 - Google Books API
+
+## [TicTacToe Game](https://reikasan.github.io/tictactoe/)
+
+Play my TicTacToe Game!<br/>
+👉 https://reikasan.github.io/tictactoe/<br/>
+GitHub: https://github.com/Reikasan/tictactoe<br/>
+
+There are
+-  Custom Cursor
+-  Smooth screen transition
+-  Auto play
+-  Step back function
+-  and also nice UI
+
+### Built with 
+- HTML
+- CSS
+- JavaScript
+
 
 ## Reservation Manager
 <img src="https://user-images.githubusercontent.com/68085523/167089689-009bf759-55af-458b-88d2-cf1fe1aae866.jpg" alt="reservation_manager_screenshot" style="max-width: 100%;">
