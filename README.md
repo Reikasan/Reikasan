@@ -11,8 +11,8 @@ Please Check :point_down:
 [🌵 Portfolio (React)](#portfolio-site)<br/>
 [📖 Book App (Laravel)](#book-app)<br/>
 [🍰 TicTacToe game (JavaScript)](#tictactoe-game)<br/>
+[🖋️ CV Template(HTML, CSS, JavaScript)](#cv)<br/>
 [🍝 Reservation Manager (PHP)](#reservation-manager)<br/>
-[🖋️ CV (HTML, CSS)](#cv)<br/>
 ---
 
 ## [Portfolio Site](https://reikasan.github.io/portfolio-2023/)
@@ -28,6 +28,7 @@ Please check my portfolio site :)
 - React
 - Material UI
 - TypeScript
+
   
 ## Book App
 <img alt="book-app-screenshot" src="https://github.com/Reikasan/Reikasan/assets/68085523/67c0d2dc-9de2-4477-9529-e75fb0d8ecb0">
@@ -66,6 +67,20 @@ There are
 - JavaScript
 
 
+## [CV Template](https://reikasan.github.io/cv/)
+I couldn't find nice CV template, so I created my own template.<br/>
+Switch between German and English versions effortlessly and print only what's necessary. <br/>
+With data fetching and rendering powered by JavaScript, CV can dynamically change. 
+
+![Screenshot 2024-02-20 at 12 49 03](https://github.com/Reikasan/Reikasan/assets/68085523/853b3004-1817-4ea5-81f7-24483d715168)
+Check -> https://reikasan.github.io/cv/<br/>
+Github: https://github.com/Reikasan/cv
+
+## Built with
+- HTML
+- CSS
+- JavaScript
+
 ## Reservation Manager
 <img src="https://user-images.githubusercontent.com/68085523/167089689-009bf759-55af-458b-88d2-cf1fe1aae866.jpg" alt="reservation_manager_screenshot" style="max-width: 100%;">
 
@@ -75,16 +90,3 @@ Github: https://github.com/Reikasan/reservation_manager_with_OOP
 - PHP
 - JavaScript
 - MySQL
-
-## [CV](https://reikasan.github.io/cv/)
-I couldn't find nice CV template, so I created my CV with html and css.
-
-![Screenshot 2024-02-20 at 12 49 03](https://github.com/Reikasan/Reikasan/assets/68085523/853b3004-1817-4ea5-81f7-24483d715168)
-Check -> https://reikasan.github.io/cv/<br/>
-Github: https://github.com/Reikasan/cv
-
-## Built with
-- HTML
-- CSS
-
-When you print it out, only paper-like area is selected!
