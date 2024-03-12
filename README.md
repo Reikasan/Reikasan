@@ -50,7 +50,7 @@ GitHub: https://github.com/Reikasan/laravel-book-app
 ## [TicTacToe Game](https://reikasan.github.io/tictactoe/)
 <img alt="tictactoe screenshot" src="https://github.com/Reikasan/photo_for_codepen/blob/main/Screenshot%202024-03-06%20at%2017.08.56.png?raw=true">
 
-Play my TicTacToe Game!<br/>
+Enjoy my first game creation: Tic Tac Toe! Play solo or challenge a friend for some classic fun.<br/>
 👉 https://reikasan.github.io/tictactoe/<br/>
 GitHub: https://github.com/Reikasan/tictactoe<br/>
 
