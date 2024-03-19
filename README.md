@@ -11,7 +11,7 @@ Please Check :point_down:
 [🌵 Portfolio (React)](#portfolio-site)<br/>
 [📖 Book App (Laravel)](#book-app)<br/>
 [🍰 TicTacToe game (JavaScript)](#tictactoe-game)<br/>
-[🖋️ CV Template(HTML, CSS, JavaScript)](#cv)<br/>
+[🖋️ CV Template(HTML, CSS, JavaScript)](#cv-template)<br/>
 [🍝 Reservation Manager (PHP)](#reservation-manager)<br/>
 ---
 
@@ -60,6 +60,7 @@ There are
 -  Auto play
 -  Step back function
 -  and also nice UI
+-  bundled JavaScript and CSS with webpack! 🆕
 
 ### Built with 
 - HTML
